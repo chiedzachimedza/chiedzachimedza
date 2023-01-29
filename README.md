@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chiedza</h1>
-<h3 align="center">A passionate Fullstack Developer from Zimbabwe</h3>
+<h3 align="center">I currently work as Treausry Analyst in the financial industry and hold a degree in Civil and Environmental Engineering👩🏾‍🎓
+I'm currently studying Fullstack Development and my hobbies are attending concerts🎸 digital art 🎨 and reading📕 I'm also an animal lover🐶</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiedzachimedza&label=Profile%20views&color=0e75b6&style=flat" alt="chiedzachimedza" /> </p>
 <p align="left"> <img src="https://images.unsplash.com/photo-1589652717521-10c0d092dea9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZG9nJTIwd2l0aCUyMGNvbXB1dGVyfGVufDB8fDB8fA%3D%3D&w=1000&q=80" alt="chiedzachimedza" /> </p>
@@ -11,7 +12,8 @@
 
 - 📫 How to reach me **chiedzachimedza@gmail.com**
 
-- ⚡ Fun fact **I can draw well**
+- ⚡ Fun fact **![ThinkingLookUpGIF](https://user-images.githubusercontent.com/123820194/215337690-71b5c66d-9e6d-40e1-a8b3-0b2d7d443cb6.gif)
+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
