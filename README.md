@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chiedza</h1>
-<h3 align="center">I currently work as Treausry Analyst in the financial industry and hold a degree in Civil and Environmental Engineering👩🏾‍🎓
+<h3 align="center">I currently work as an Analyst in the financial industry and hold a degree in Civil and Environmental Engineering👩🏾‍🎓
 I'm currently studying Fullstack Development and my hobbies are attending concerts🎸 digital art 🎨 and reading📕 I'm also an animal lover🐶</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiedzachimedza&label=Profile%20views&color=0e75b6&style=flat" alt="chiedzachimedza" /> </p>
